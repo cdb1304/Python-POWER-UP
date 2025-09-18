@@ -29,3 +29,8 @@
 
 - `*import time` **—> Para utilizar a biblioteca TIME***
 - `*time.sleep` **—>* Faz o programa parar completamente pelo tempo que você indicar.**
+
+**PANDAS —> Importar base da dados:**
+
+- `*import pandas` **—> Para utilizar a biblioteca PANDAS***
+- `*pandas.read*` **—> Lista as base de dados que ele pode ler**
