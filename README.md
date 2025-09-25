@@ -34,3 +34,8 @@
 
 - `*import pandas` **—> Para utilizar a biblioteca PANDAS***
 - `*pandas.read*` **—> Lista as base de dados que ele pode ler**
+
+**Códigos:** 
+
+- `for` **—>  serve para repetir um bloco de código várias vezes**
+- `str` —> è igual a um texto, tudo que eu por na ( ) vira texto
